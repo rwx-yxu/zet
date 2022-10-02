@@ -15,9 +15,9 @@ This will save a lot of time later on when you realise you do need the
 additional space and have to manually enlarge the partition.
 
 Related:
-    * (Youtube install video)[https://www.youtube.com/watch?v=zs2zdVPwZ7E&t=580s]
-    * (Rob's zet to enlarge partition size)[https://github.com/rwxrob/zet/blob/
-    e0800f0a37d3918ddf90dcca5654df56d247ab97/20220714191155/README.md]
+* [Youtube install
+      video](https://www.youtube.com/watch?v=zs2zdVPwZ7E&t=580s)
+* [Rob's zet to enlarge partition size](https://github.com/rwxrob/zet/blob/e0800f0a37d3918ddf90dcca5654df56d247ab97/20220714191155/README.md)
 
 Tags:
 
