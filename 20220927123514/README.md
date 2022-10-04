@@ -62,13 +62,9 @@ as a fact unfortunately...
 
 Related:
 
-* [ECMAScript Internationalization API](https://norbertlindenberg.com/
-  2012/12/ecmascript-
-  internationalization-api/index.html)
-* [JavaScript calculation article](https://www.honeybadger.io/blog/
-  currency-money-calculations-in-javascript/)
-* [Mozilla number format docs](https://www.honeybadger.io/blog/
-  currency-money-calculations-in-javascript/)
+* [ECMAScript Internationalization API](https://norbertlindenberg.com/2012/12/ecmascript-internationalization-api/index.html)
+* [JavaScript calculation article](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
+* [Mozilla number format docs](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
 * [Golang math.Round](https://gosamples.dev/round-float/)
 
 Tags:
