@@ -24,8 +24,10 @@ Ultimately, I just want to look at text and edit it.
 
 References:
 
-  * (Example article just for Eclipse)[https://www.vogella.com/tutorials/JUnit/article.html]
-  * (Example article just for IntelliJ and Eclipse)[https://www.parasoft.com/blog/junit-tutorial-setting-up-writing-and-running-java-unit-tests/]
+  * [Example article just for
+    Eclipse](https://www.vogella.com/tutorials/JUnit/article.html)
+  * [Example article just for IntelliJ and
+    Eclipse](https://www.parasoft.com/blog/junit-tutorial-setting-up-writing-and-running-java-unit-tests/)
 
 Tags:
 
