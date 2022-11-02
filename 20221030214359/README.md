@@ -1,4 +1,4 @@
-#Thermal printers are unique
+# Thermal printers are unique
 I have been working with thermal printing lately and they are very
 unique with respect to language output.
 

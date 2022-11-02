@@ -1,4 +1,4 @@
-#Google maps API autocomplete does not work well with UK addresses
+# Google maps API autocomplete does not work well with UK addresses
 Google maps is practically the go to maps platform for most users. I
 started to use the Google map API recently and noticed that the auto
 complete feature for addresses do not return street numbers or post
@@ -18,9 +18,9 @@ longitude.
 
 Related:
 
-    * (https://stackoverflow.com/questions/52631807/google-maps-autocomplete-doesnt-include-postcodes-in-address-search)
-    * (https://getaddress.io)
-    * (https://postgrid.co.uk)
+    * https://stackoverflow.com/questions/52631807/google-maps-autocomplete-doesnt-include-postcodes-in-address-search
+    * https://getaddress.io
+    * https://postgrid.co.uk
 
 Tags
 
