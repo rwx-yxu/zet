@@ -10,7 +10,7 @@ notes or dev work if I have a long gap between lectures (which I do have on most
  logged out so I cannot download windows terminal or any client software as well.
 
 I have looked at:
-* Inlets pro[^2] - I have used this before to briefly host a web application
+* Inlets pro[^1] - I have used this before to briefly host a web application
   on the internet before and I know how to use it. The major downside is
   the cost. I have to pay for a vm in the cloud as well the inlets
   subscription on top. Plus, I will only have 2 tunnels. The plus side
@@ -24,7 +24,7 @@ I have looked at:
   The blocker for this would be that I need to download the windows
   tailscale client on the university machine which I cannot do. The
   tailscale user experience is really seamless otherwise.
-* Cloud flare tunnel[^2] - Cloud flare tunnel is also a free solution like
+* Cloud flare tunnel[^3] - Cloud flare tunnel is also a free solution like
   tailscale but the endpoint will be publicly accessible from the
   internet. The key difference with cloud flare tunnels is that you can
   browser render a terminal without any setup. All you need to do is
@@ -58,6 +58,6 @@ use my home dev vm at university. I also noticed that since you can set
 routing with tunnels, I can expose other things as well such as a github
 hook or applications on my network!
 
-[^2]:https://docs.inlets.dev/tutorial/ssh-tcp-tunnel/
+[^1]:https://docs.inlets.dev/tutorial/ssh-tcp-tunnel/
 [^2]:https://tailscale.com/kb/1193/tailscale-ssh/
-[^2]:https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/use_cases/ssh/#connect-to-ssh-server-with-cloudflared-access
+[^3]:https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/use_cases/ssh/#connect-to-ssh-server-with-cloudflared-access
