@@ -1,3 +1,4 @@
+* 2022-12-01 10:07:34Z [Do not use dashes for go package names](../6)
 * 2022-12-01 10:07:12Z [Go.mod file makes it easy to change dependency versions](../5)
 * 2022-12-01 10:06:32Z [Use the -d @FILENAME to post JSON when using CURL](../4)
 * 2022-11-29 13:46:12Z [AlpineJS scope and state management](../3)
