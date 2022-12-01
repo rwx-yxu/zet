@@ -1,3 +1,4 @@
+* 2022-12-01 10:10:39Z [Google maps API autocomplete does not work well with UK addresses](../9)
 * 2022-12-01 10:09:02Z [Output JSON in Golang template](../8)
 * 2022-12-01 10:07:53Z [Do not name multiple go packages in the same directory](../7)
 * 2022-12-01 10:07:34Z [Do not use dashes for go package names](../6)
