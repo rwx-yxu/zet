@@ -1,3 +1,4 @@
+* 2022-12-01 10:23:39Z [Ubuntu server installation use entire disk space](../22)
 * 2022-12-01 10:22:55Z [Tomcat development without IDE](../21)
 * 2022-12-01 10:22:37Z [Do not use web.xml along with @WebServlet notation in tomcat 9](../20)
 * 2022-12-01 10:22:22Z [Thermal printers are unique](../19)
