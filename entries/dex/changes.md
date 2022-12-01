@@ -1,3 +1,4 @@
+* 2022-12-01 10:22:37Z [Do not use web.xml along with @WebServlet notation in tomcat 9](../20)
 * 2022-12-01 10:22:22Z [Thermal printers are unique](../19)
 * 2022-12-01 10:22:05Z [Testing informs design decisions](../18)
 * 2022-12-01 10:21:48Z [Subnets to Network IP](../17)
