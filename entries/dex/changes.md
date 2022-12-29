@@ -1,3 +1,4 @@
+* 2022-12-29 23:11:47Z [Golang Method has pointer receiver](../24)
 * 2022-12-25 00:13:48Z [Golang : operator in slices and arrays](../23)
 * 2022-12-01 10:23:39Z [Ubuntu server installation use entire disk space](../22)
 * 2022-12-01 10:22:55Z [Tomcat development without IDE](../21)
